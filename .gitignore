@@ -1,4 +1,5 @@
 babel.config.js
+node_modules/*
 node_modules/@babel/regjsgen/LICENSE-MIT.txt
 node_modules/@babel/regjsgen/package.json
 node_modules/@babel/regjsgen/README.md
